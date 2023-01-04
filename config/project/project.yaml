@@ -1,0 +1,22 @@
+dateModified: 1672838725
+email:
+  fromEmail: chealey@propelcog.com
+  fromName: NILD
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    70d3c04f-75fd-40b0-bcb2-3ce87ed1c356: Common
+    746e86bd-8785-4f3e-9787-eafea0aa0f40: NILD
+    a8d19b21-b199-43de-8b7d-96edb1c8caa3: NILD
+system:
+  edition: solo
+  live: true
+  name: NILD
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
